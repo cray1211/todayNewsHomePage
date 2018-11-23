@@ -1,0 +1,23 @@
+
+
+//
+//  PrefixHeader.pch
+//  高仿头条
+//
+//  Created by sxf_pro on 2018/7/17.
+//  Copyright © 2018年 sxf_pro. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Foundation/Foundation.h>
+
+
+/**全部选择栏目*/
+static  NSString * const allHeaderTitleArr = @"allHeaderTitleArr";
+/**首页顶部选择栏目*/
+static  NSString * const topHeaderTitleArr = @"topHeaderTitleArr";
+
+
+#endif /* PrefixHeader_pch */
